@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test de componetn <CounterApp /> realizando prueba de props  1`] = `
+<Fragment>
+  <h1>
+    Counter app
+  </h1>
+  <p
+    id="contador"
+  />
+  <button
+    className="btn"
+    onClick={[Function]}
+  >
+     Sumar 
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+  >
+     Restar 
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+  >
+     Reset 
+  </button>
+</Fragment>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en <PrimerApp />  Debe mostrar la prop que se le manda  1`] = `
+<Fragment>
+  <h1>
+    Hey google
+    !!
+  </h1>
+  <p
+    id="parrafo"
+  />
+</Fragment>
+`;
